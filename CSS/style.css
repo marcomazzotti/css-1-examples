@@ -1,0 +1,39 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+#main-title {
+  color: green;
+  text-align: center;
+  text-decoration: line-through;
+  font-size: 2rem;
+}
+
+.blue-title{
+  color: rgb(0, 0, 255);
+}
+
+.pink-title{
+  color: #ffc0cb;
+}
+
+.light-section{
+  background-color: lightblue;
+}
+
+.main-header{
+  height: 200px;
+  background-image: url(../img/pexels-bill-emrich-230794-0.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.square{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+}
+
+.border{
+  border: 3px solid green;
+}
